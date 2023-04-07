@@ -1,3 +1,14 @@
+# Tech Stack Used 
+
+//React + React HOOKS (react powers everything)
+//React context API -> REDUX pattern (to capture user when they log in with this api)
+//MATERIAL UI (to use house icons and flag and icons logos pues)
+//FLEXBOX (to make things very responsive in real life time )
+//Firebase's Firestore realtime DB (database)
+//Firebase Hosting (to deploy)
+//Firebase Google Authentication (FULL LOGIN!) (to power the whole thing)
+//React flip move (when you post something, that div created has a nice smooth, pop up)
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
